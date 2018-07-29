@@ -1,7 +1,7 @@
 class Triangle
 
   def initialize(l1, l2, l3)
-    @lengths
+    @lengths = [l1, l2, l3]
   end
 
   def kind
