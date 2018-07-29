@@ -8,6 +8,8 @@ class Triangle
 
   end
 
-  class TriangleError < StandardError end 
-
 end
+
+class TriangleError < StandardError
+
+end 
